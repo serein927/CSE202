@@ -4,7 +4,7 @@ Data: Pages from UCSD CSE webpages
 
 Pagerank: Implementation of pagerank
 
-Parrallel Pagerank: Implementation of parrallel pagerank
+Parallel_pagerank: Implementation of parallel pagerank
 
 ## Clone 
 
