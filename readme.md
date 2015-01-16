@@ -6,6 +6,3 @@ Pagerank: Implementation of pagerank
 
 Parallel_pagerank: Implementation of parallel pagerank
 
-## Clone 
-
-git clone git://github.com/serein927/CSE202
